@@ -1,6 +1,6 @@
-# belly_button
+# From Bacteria to Beef
 
-<h1>From Bacteria to Beef, Belly Button Biodiversity!</h1>
+<h1>Belly Button Biodiversity!</h1>
 We worked to identify the best way to best convey the data to Roza's volunteers and other researchers using Plotly. For volunteers who are interested in selling their bacteria to Improbable Beef, what is the best way to visualize the types of bacteria that colonize their bellies? Some of them will be suitable for synthetic beef production, while others will not. Specifically, we identified the top 10 bacterial species in volunteers’ belly buttons while tracking the number of times they wash in a week and the volume of the bacteria. That way, if Improbable Beef identifies a species as a candidate to manufacture synthetic beef, Roza's volunteers will be able to identify whether that species is found in their navel.
 
 <h1>Resources</h1>
