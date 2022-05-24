@@ -167,5 +167,5 @@ sampleNames.forEach((sample) => {
   Plotly.newPlot("gauge", gaugeData, gaugeLayout);
 
 });
-  }
+}
   
